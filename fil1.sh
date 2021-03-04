@@ -5,3 +5,11 @@ echo " ram"
 echo " welcome"
 echo "hello"
 echo " raj"
+
+
+
+echo " ram"
+echo "kumar"
+ 
+echo "mohan"
+
