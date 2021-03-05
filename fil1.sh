@@ -13,3 +13,6 @@ echo "kumar"
  
 echo "mohan"
 
+
+echo " hi hello how ARE YYOU "
+
